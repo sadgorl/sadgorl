@@ -1,5 +1,5 @@
 <h2>👩‍💻 Software Development Projects:</h2>
-- [Active Directory Bulk User Creation](https://github.com/haeyodoll/AD_PS) <br/>
+- [Active Directory Bulk User Creation](https://github.com/sadgorl/AD_PS) <br/>
 - [SWipe (Disk Wiping Utility)](https://github.com/haeyodoll/SWipe.PowerShell)
 
 <div align="center">
